@@ -48,8 +48,8 @@ console.log(palabra);
 console.log(respuesta);
 console.log(pi);
 
-
 //8
 let n1 = 2, n2 = 5;
-console.log(n1, n2);
 
+//9 
+console.log(n1 + n2);
