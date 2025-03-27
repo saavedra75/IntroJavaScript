@@ -16,7 +16,6 @@ Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la vari
 
 //1
 let numero = -4;
-console.log(numero);
 
 //2
 let palabra = "Hola mundo";
@@ -31,8 +30,24 @@ let pi = 3.14;
 numero = 54;
 
 //6
-//intento modificar una variable antes de crearla
+/*intento modificar una variable antes de crearla
 miVariable = 5;
 console.log(miVariable);
+
+Ocurre el siguiente error:
+Uncaught ReferenceError: Cannot access 'miVariable' before initialization
+Procedo a comentarla antes de que de problemas
+
 let miVariable = 65;
 console.log(miVariable);
+*/
+
+//7
+console.log(numero);
+console.log(palabra);
+console.log(respuesta);
+console.log(pi);
+
+
+//8
+
