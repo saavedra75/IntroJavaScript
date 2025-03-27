@@ -71,7 +71,7 @@ console.log(n1 % n2);
 let miNombre = "Jose Manuel";
 
 //15
-
+console.log("Hola, " + miNombre);
 
 
 
