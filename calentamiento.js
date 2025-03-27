@@ -16,6 +16,7 @@ Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la vari
 
 //1
 let numero = -4;
+console.log(numero);
 
 //2
 let palabra = "Hola mundo";
@@ -29,3 +30,9 @@ let pi = 3.14;
 //5
 numero = 54;
 
+//6
+//intento modificar una variable antes de crearla
+miVariable = 5;
+console.log(miVariable);
+let miVariable = 65;
+console.log(miVariable);
