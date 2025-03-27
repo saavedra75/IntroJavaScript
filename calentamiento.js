@@ -15,13 +15,17 @@ Declara una variable cuyo valor sea tu nombre.
 Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la variable anterior.*/
 
 //1
-let numNeg = -4;
+let numero = -4;
 
 //2
-let cadena = "Hola mundo";
+let palabra = "Hola mundo";
 
 //3
 let respuesta = true;
 
 //4
 let pi = 3.14;
+
+//5
+numero = 54;
+
