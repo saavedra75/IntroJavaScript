@@ -53,3 +53,8 @@ let n1 = 2, n2 = 5;
 
 //9 
 console.log(n1 + n2);
+
+//10
+console.log(n1 - n2);
+
+
