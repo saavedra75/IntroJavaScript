@@ -17,3 +17,6 @@ Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la vari
 //1
 let numNeg = -4;
 
+//2
+let cadena = "Hola mundo";
+
