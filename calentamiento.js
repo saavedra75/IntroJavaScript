@@ -20,3 +20,8 @@ let numNeg = -4;
 //2
 let cadena = "Hola mundo";
 
+//3
+let respuesta = true;
+
+//4
+let pi = 3.14;
