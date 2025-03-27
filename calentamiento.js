@@ -67,6 +67,11 @@ console.log(n1 / n2);
 //13
 console.log(n1 % n2);
 
+//14
+let miNombre = "Jose Manuel";
+
+//15
+
 
 
 
